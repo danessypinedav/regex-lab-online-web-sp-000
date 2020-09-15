@@ -17,3 +17,6 @@ end
 def valid_phone_number?(phone)
 
 end
+
+
+"The rain in Spain lies mainly in the plain".scan(/\w+ain/)
